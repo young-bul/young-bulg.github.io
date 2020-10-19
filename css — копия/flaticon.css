@@ -1,0 +1,49 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 28/07/2017 14:41
+  	*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("../fonts/Flaticon.eot");
+  src: url("../fonts/Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/Flaticon.woff") format("woff"),
+       url("../fonts/Flaticon.ttf") format("truetype"),
+       url("../fonts/Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("../fonts/Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+.flaticon {   
+  font-family: Flaticon;
+  font-size: 20px;
+  font-style: normal;
+}
+
+.flaticon-animal:before { content: "\f100"; }
+.flaticon-email-filled-closed-envelope:before { content: "\f101"; }
+.flaticon-social:before { content: "\f102"; }
+.flaticon-gmail-logo:before { content: "\f103"; }
+.flaticon-placeholder:before { content: "\f104"; }
+.flaticon-old-typical-phone:before { content: "\f105"; }
+.flaticon-vaulting-horse:before { content: "\f106"; }
+.flaticon-tool:before { content: "\f107"; }
+.flaticon-shield:before { content: "\f108"; }
+.flaticon-smile:before { content: "\f109"; }
+.flaticon-trophy:before { content: "\f10a"; }
+.flaticon-notepad:before { content: "\f10b"; }
+.flaticon-trainer:before { content: "\f10c"; }
+.flaticon-sports:before { content: "\f10d"; }
+.flaticon-people-1:before { content: "\f10e"; }
+.flaticon-doctor:before { content: "\f10f"; }
+.flaticon-people:before { content: "\f110"; }
+.flaticon-white-jumping-horse-outline:before { content: "\f111"; }
+.flaticon-horseshoe:before { content: "\f112"; }
+.flaticon-black:before { content: "\f113"; }
